@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="8c737d6f83f04ed0b301237e7c316b28" Name="Diagram1">
+        <EntityTypeShape EntityType="QLThuChiModel.CongViec" Width="1.5" PointX="5.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.KhoanChi" Width="1.5" PointX="8.25" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.KhoanThu" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.LanDangNhap" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.LoaiCamXuc" Width="1.5" PointX="6" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.LoaiKhoanChi" Width="1.5" PointX="6" PointY="18.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.LoaiKhoanThu" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.LoaiVay" Width="1.5" PointX="6" PointY="21" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.MucDichTietKiem" Width="1.5" PointX="3" PointY="16.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.NguoiVay" Width="1.5" PointX="6" PointY="23.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.Quyen" Width="1.5" PointX="0.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.ThanhVien" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.TietKiem" Width="1.5" PointX="5.25" PointY="14.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.TrangThai" Width="1.5" PointX="8.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.TraNo" Width="1.5" PointX="10.5" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLThuChiModel.Vay_ChoVay" Width="1.5" PointX="8.25" PointY="14.625" IsExpanded="true" />
+        <AssociationConnector Association="QLThuChiModel.FK_CongViec_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_KhoanChi_LoaiKhoanChi" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_KhoanChi_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_KhoanThu_LoaiKhoanThu" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_KhoanThu_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_TrangThai_LoaiCamXuc" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_Vay_ChoVay_LoaiVay1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_TietKiem_MucDichTietKiem" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_Vay_ChoVay_NguoiVay" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_ThanhVien_Quyen" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_TietKiem_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_TrangThai_ThanhVien" ManuallyRouted="true" >
+          <ConnectorPoint PointX="4.47576923076923" PointY="9.75" />
+          <ConnectorPoint PointX="4.875" PointY="9.3507692307692309" />
+          <ConnectorPoint PointX="4.875" PointY="10.009908854166664" />
+          <ConnectorPoint PointX="7.875" PointY="10.009908854166664" />
+          <ConnectorPoint PointX="7.875" PointY="9.874492187499996" />
+          <ConnectorPoint PointX="8.25" PointY="9.499492187499996" />
+        </AssociationConnector>
+        <AssociationConnector Association="QLThuChiModel.FK_Vay_ChoVay_ThanhVien" ManuallyRouted="false" />
+        <AssociationConnector Association="QLThuChiModel.FK_TraNo_Vay_ChoVay" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

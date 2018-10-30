@@ -1,0 +1,15 @@
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Test_QuanLyThuChi.exe.config
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Test_QuanLyThuChi.exe
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Test_QuanLyThuChi.pdb
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.csprojResolveAssemblyReference.cache
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.Form1.resources
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.Properties.Resources.resources
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.csproj.GenerateResource.Cache
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.exe
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\obj\Debug\Test_QuanLyThuChi.pdb
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Data_QLThuChi.dll
+E:\Projects\API_QuanLyThuChi\Test_QuanLyThuChi\bin\Debug\Data_QLThuChi.pdb

@@ -1,0 +1,5 @@
+E:\Projects\API_QuanLyThuChi\Data_QLThuChi\bin\Debug\Data_QLThuChi.dll
+E:\Projects\API_QuanLyThuChi\Data_QLThuChi\bin\Debug\Data_QLThuChi.pdb
+E:\Projects\API_QuanLyThuChi\Data_QLThuChi\obj\Debug\Data_QLThuChi.dll
+E:\Projects\API_QuanLyThuChi\Data_QLThuChi\obj\Debug\Data_QLThuChi.pdb
+E:\Projects\API_QuanLyThuChi\Data_QLThuChi\obj\Debug\Data_QLThuChi.csprojResolveAssemblyReference.cache
